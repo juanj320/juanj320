@@ -1,4 +1,4 @@
-<h1 align="center"👉Hi there👋😃, I'm Juan Jose Gomez👈 </h1>
+<h1 align="centerHi there�, I'm Juan Jose Gomez</h1>
 <h3 align="center">A passionate Back-end developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Python,Java and Spring Framework.**
