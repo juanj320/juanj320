@@ -1,7 +1,8 @@
-<h1 align="center">Hi there👋, I'm Juan Jose Gomez</h1>
+<h1 align="center"👉Hi there👋😃, I'm Juan Jose Gomez👈 </h1>
 <h3 align="center">A passionate Back-end developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Python,Java and Spring Framework.**
+- 🤝 I’m looking to collaborate on projects that can help me expand my knowledge as a programmer.
 
 - 📫 How to reach me? **My email juanjosegomezfernandez114@gmail.com**
 
