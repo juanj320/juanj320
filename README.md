@@ -3,7 +3,7 @@
 
 - 📚 I’m currently studying Analysis and development of information system 
 
-- 🌱 I’m currently learning **Python,Java and Spring Framework.**
+- 🌱 I’m currently learning **Python,Java.**
 
 - 🤝 I’m looking to collaborate on projects that can help me expand my knowledge as a programmer.
 
