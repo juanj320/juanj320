@@ -3,7 +3,7 @@
 
 - 📚 I’m currently studying systems engineer
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Docker**
 
 - 🤝 I’m looking to collaborate on projects that can help me expand my knowledge as a programmer.
 
