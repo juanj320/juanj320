@@ -1,14 +1,46 @@
-<h1 align="center">Hi there👋😃, I'm Juan Jose Gomez</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
+<h1 align="center">👋 ¡Hola! Soy Juan José</h1>
+<p align="center">🧑‍💻 Desarrollador Fullstack | 🎓 Ingeniero de Software | 🌎 Desde Pereira, Colombia</p>
 
-- 📚 I’m currently studying systems engineer
+---
 
-- 🌱 I’m currently learning **Docker**
+### 🚀 Sobre mí
 
-- 🤝 I’m looking to collaborate on projects that can help me expand my knowledge as a programmer.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado desarrollador de software con más de dos años de experiencia construyendo soluciones web modernas. Me encanta crear aplicaciones limpias, funcionales y bien estructuradas. 
 
-- 📫 How to reach me? **My email juanjosegomezfernandez114@gmail.com**
+- 🔭 Actualmente trabajando en: una plataforma para conectar estudiantes con empresas.
+- 🎯 Enfocado en: Laravel, Vue, JavaScript, PHP y MySQL.
+- 📚 Siempre aprendiendo sobre arquitectura de software, seguridad web y buenas prácticas.
+- 🎣 Fun fact: ¡Me gusta ir de pesca los fines de semana!
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"></a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🛠️ Tecnologías y herramientas
+
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 Mis estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juanjo-dev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjo-dev&theme=radical" alt="Racha de commits" />
+</p>
+
+---
+
+### 📫 Contáctame
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 📧 juanjose@email.com
+- 🌐 [Portafolio personal](https://tuportafolio.com)
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar en algún proyecto, no dudes en contactarme.
