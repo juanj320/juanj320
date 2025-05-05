@@ -25,16 +25,6 @@
 
 ---
 
-### 📈 Mis estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanjo-dev&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanjo-dev&theme=radical" alt="Racha de commits" />
-</p>
-
----
-
 ### 📫 Contáctame
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
