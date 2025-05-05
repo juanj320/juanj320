@@ -30,7 +30,7 @@
 ### 📫 Contáctame
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/juan-gomez-531788225/))
-- 📧 juanjose@email.com
+- 📧 juanjosegomezfernandez114@email.com
   
 ---
 
