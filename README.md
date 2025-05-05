@@ -27,10 +27,9 @@
 
 ### 📫 Contáctame
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/juan-gomez-531788225/))
 - 📧 juanjose@email.com
-- 🌐 [Portafolio personal](https://tuportafolio.com)
-
+  
 ---
 
 ⭐ ¡Gracias por visitar mi perfil! Si te interesa colaborar en algún proyecto, no dudes en contactarme.
