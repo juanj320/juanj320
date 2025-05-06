@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Juan José</h1>
-<p align="center">🧑‍💻 Desarrollador Fullstack | 🎓 Ingeniero de Software | 🌎 Desde Pereira, Colombia</p>
+<p align="center">🧑‍💻 Desarrollador Fullstack | 🎓 Ingeniero de Sistemas | 🌎 Desde Pereira, Colombia</p>
 
 ---
 
